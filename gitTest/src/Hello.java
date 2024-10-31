@@ -4,5 +4,6 @@ public class Hello {
         System.out.println("hello world22");
 
         System.out.println("other hello world");
+        System.out.println("메인 그래로 진행");
     }
 }
