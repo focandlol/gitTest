@@ -12,6 +12,7 @@ public class Hello {
 
 
         System.out.println("충돌?");
+        System.out.println("같은 파일은 충돌 다른 파일은 충돌 안함?");
 
     }
 }
